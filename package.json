@@ -1,0 +1,21 @@
+{
+    "name": "metalic-theme",
+    "displayName": "Metalic Theme",
+    "description": "Metalic theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Metalic Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Metalic Theme-color-theme.json"
+            }
+        ]
+    }
+}
